@@ -1,0 +1,37 @@
+---
+# title: 'Welcome to the Masiello Group: <span style="color:#757883">light-matter theory at the nanoscale</span>'
+# subtitle: "light-matter theory at the nanoscale"
+page-layout: full
+---
+<div class="gradient-text">
+
+<div class="welcome-headline">
+Welcome to the RHINELAB_ARL Laboratory<br>
+</div>
+<div class="welcome-subheadline">
+Foundational, logistical and frontier open research in one stretch
+</div>
+</div>
+
+::::{.cmm-background}
+::: {.content-container}
+::: {.welcome }
+
+
+::: grid
+::: {.g-col-12 .g-col-lg-5 .welcome-text .sand-background style="padding: 15px;"}
+We are a community of prospective students, independent researchers, theoreticians and researchers with diverse backgrounds in most area of science, *pure/natural science and technological science*, which includes pure mathematics, physics and theoretical computer science and artificial intelligence but not shying from *social science and philosophy*. Here, our lab works within the **foundations** of knowledge, the *logistics* for sciences and archives of scientific artifacts, *institutional science and organization science* for operating and managing the laboratory itself, and also *frontier sciences* in social science, literature, psychology, neuroscience, quantum physics and field theories, quantum foundational material science, artificial intelligence, philosophy of sciences and physics, and more theoretical research. 
+
+:::
+
+:::
+
+:::
+:::
+::::
+
+::: {.callout-warning}
+
+The website is still under construction, so apologize if a lot of contents are unavailable. 
+
+:::

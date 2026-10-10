@@ -1,0 +1,55 @@
+[
+  {
+    "listing": "/research/theoretical_physics_and_mathematical_physics/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/theoretical_artificial_intelligence/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/pure_mathematics_and_pure_logic/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/pure_mathematics_and_pure_logic/index.html",
+      "/research/natural_science_non_physics/index.html",
+      "/research/social_science_literature_and_philosophy/index.html",
+      "/research/theoretical_artificial_intelligence/index.html",
+      "/research/theoretical_cs_and_automaton/index.html",
+      "/research/theoretical_physics_and_mathematical_physics/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/bui_gia_khanh/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/natural_science_non_physics/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/social_science_literature_and_philosophy/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/theoretical_cs_and_automaton/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/bui_gia_khanh/index.html",
+    "items": []
+  }
+]

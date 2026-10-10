@@ -1,0 +1,40 @@
+---
+title: "Bui Gia Khanh"
+about: 
+  id: contact
+  template: solana
+  image-shape: round
+  #image: people/masiello-david/avatar.png
+# page-layout: full
+---
+
+
+
+:::{#contact}
+
+#### {{< fa envelope >}} &nbsp; buigiakhanh.cad@rhinelaboratory.org
+
+#### {{< fa phone >}} &nbsp; 206-543-5579
+
+#### {{< fa map-location-dot >}} &nbsp; RHINELAB (Open) Advanced Research Laboratory, International
+
+
+:::
+
+
+```{r}
+#| echo: false
+#| label: rhinelab-map
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%  # Adds the default OpenStreetMap tile layer
+  setView(lng = 105.825472, lat = 21.005333, zoom = 16) %>%  # Sets center coordinates and zoom level
+  addMarkers(
+    lng = 105.825472, 
+    lat = 21.005333, 
+    popup = "<b>RHINELAB Operating Room</b>"
+  )
+```
+
+<br>

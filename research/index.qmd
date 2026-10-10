@@ -1,0 +1,16 @@
+---
+title: Research Areas
+listing:
+  id: research
+  type: grid
+page-layout: full
+---
+Our laboratory works within the standard and setup of a *non-departmental laboratory* thus *group- or cluster-based* system. Thus, there are many things to work on, as well as many subject to cover, and we expect *cross-disciplinary works* to take place in the lab. So far, below are some of the groups or research clusters that we have in participation. 
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/chalkboard_sm.jpg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->

@@ -1,0 +1,57 @@
+---
+title: &TITLE Khanh Gia Bui (Fujimiya Amane)
+last: Khanh
+first: Bui
+people_group: "pi"
+email: "buigiakhanh-cad@rhinelaboratory.org"
+subtitle: Founder <br> Principal Researcher <br> Director of Science <br> Academic and Independent Theoretical Science Researcher 
+education:
+  - B.S Physics, Hanoi University of Science, Vietnam National University 
+image: avatar.png 
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  # image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Bui Gia Khanh is the founder, Principal Investigator and is the main researcher in almost all activities of **RHINELAB**, *RINALAB*, a private researcher synthesis, as well as a network of research activities and advocates. His focuses are multidisciplinary, including deep knowledge in fields as followed: 
+
+- Foundation of biology, theoretical biology (alternatives to genetic-centric theory and EEC, autopoietic theory of foundational life), theoretical and simulative computational neuroscience. 
+- Theoretical and foundational computer science; cellular automata and non-Von Neumann architecture or non-Turing computational model. 
+- Theoretical and foundational physics, computational physics and philosophy of physics. 
+- Philosophy, philosophy of science, Western philosophy and Existentialism. 
+- Theoretical artificial intelligence, cybernetics and modern form of cybernetics, learning theory and statistical learning theory. 
+- Modelling theory and automated process. 
+
+While his researches are broad, his principle and goals remain settled - **foundational research and acquisition is paramount**, meanwhile synthesis and extension of knowledge should be conducted in a *modelling-theoretic senses*, to make use of different models in formation of knowledge to the physical world in a rigorous manner of parity. 
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
