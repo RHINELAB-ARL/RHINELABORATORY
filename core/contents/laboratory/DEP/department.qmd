@@ -1,0 +1,7 @@
+---
+title: Laboratory Departments (`DEP`)
+subtitle: RHINELAB@COMM, with domain attached (whether you want it or not, idk)
+title-block-banner: true
+description: "Well, who would not want to go and do stuffs together. That is the community and it is less than enough, ideal for all it seems."
+author: Bui Gia Khanh
+---

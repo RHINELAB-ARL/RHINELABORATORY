@@ -1,0 +1,6 @@
+---
+title: RHINELAB@DOM-AI - Artificial Intelligence Concentration
+subtitle: For all meaning and purpose of artificial intelligence knowledge, foundations, and developments. 
+title-block-banner: true
+description: Artificial Intelligence **Field and Domain**. Specifically, the concentration of knowledge. 
+---

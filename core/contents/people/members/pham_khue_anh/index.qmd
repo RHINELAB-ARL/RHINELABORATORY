@@ -1,0 +1,56 @@
+---
+title: &TITLE Pham Khue Anh
+last: Khue Anh
+first: Pham
+people_group: "senior"
+email: "phamkhueanh@rhinelaboratory.org"
+subtitle: Senior Researcher <br> Director of Science and Philosophy <br> Academic and Independent Philosophy and Literature Researcher 
+education:
+  - B.S Physics, University of Social Science and Humanities (USSH), Vietnam National University 
+image: placeholder.png 
+listing:
+  id: pubs
+  template: ../../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../lab_publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  # image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Pham Khue Anh is a director, with specialties to be rather unique - on *social science*, *philosophy* and **literature**, and research direction specifically tailored for psychology and anthropomorphism. Currently, she is in the process and request of preparing and forming `RHINELAB@PHILR`, the wing of RHINELAB on operations of Philosophy and Literature Research Group, as well as social science under its sub-utilities. She is affiliated on enrolment in Vietnam National University, University of Social Science and Humanities (USSH, Vietnam). 
+
+
+## Education
+
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
+
+
+
+
+
+

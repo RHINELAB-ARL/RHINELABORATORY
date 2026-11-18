@@ -1,0 +1,18 @@
+---
+title: Laboratory and domains
+subtitle: RHINE@LABORATORY and RHINELAB@DOM, domain of knowledge and laboratory and functions
+title-block-banner: true
+description: Introduction and interjection on what the laboratory do **and in hindsight**, also what of each domain and project each concerns. here, you will find everything under consideration about the compositions of the laboratory, research and development, documentations, and coordination across various fragments, that is of the constitution for the RHINELAB architecture in its entirety.  
+listing:
+  contents:
+    - "DEP/department.qmd"
+    - "COMM/community.qmd"
+    - "DOM/domain.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+A lot of times, a laboratory is constrained to one fundamental core group. Over in RHINELAB, **compartmentalization** but with **cross-communication** is of the utmost importance, especially when considering the foundational philosophy and the structural architecture laid out by the founder. Therefore, the category of `@LABORATORY` is formed, in which they are to segment and enact the condition for *divide and conquer, as well as self-sustainment* of each individual laboratories and their comfort zone. 
+
+

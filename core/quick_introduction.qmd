@@ -1,0 +1,9 @@
+---
+title: Quick information and details
+description: For a quick review and write-up of what RHINELAB is, and how RHINELAB works. 
+title-block-banner: true
+---
+Well, certainly we are under expectation of people looking into what we are and how to improve whatever is of the conception here and there. So, that is the purpose of this note. 
+
+
+

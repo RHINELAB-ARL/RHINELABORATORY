@@ -1,0 +1,8 @@
+---
+title: Online platform logistics
+title-block-banner: true
+subtitle: Operational open-access and semi-access websites, wikis and infrastructures online. 
+author: Bui Gia Khanh
+---
+
+We have a lot of resources hosted online. So it is better this way, I suppose. 

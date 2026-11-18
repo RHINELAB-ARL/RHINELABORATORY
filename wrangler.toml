@@ -1,0 +1,8 @@
+name = "your-project-name"
+main = "src/index.js"
+compatibility_date = "2024-03-20"
+
+# Optional: If you are serving a static site (like mdBook or Sphinx) via Workers,
+# uncomment the assets block and point it to your build output directory.
+# [assets]
+# directory = "build"

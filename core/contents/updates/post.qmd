@@ -1,0 +1,22 @@
+---
+title: "Research and Updates"
+listing:
+  date-format: iso
+  contents: posts
+  fields: [image, title, categories, description, reading-time,
+           date]
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: images/RHINELAB_D.svg
+title-block-banner-color: "#ffffff"
+format:
+  rhinelab-html:
+    css: styles/rhinelab-banner.css
+    code-tools: false
+    number-sections: false
+---
+To give usual updates on how the progress are going, I am trying to reach for an argument of what to build. What resulted in, benefiting both collaborators and thereof, is this page, looking for *blog-post* most usually. Well, that is for sure a very interesting predicament. Let us see what is in this blog, then. And again, RHINELAB is always short on **contents**. 

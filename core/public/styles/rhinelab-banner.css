@@ -1,0 +1,28 @@
+#title-block-header .quarto-title-banner {
+  /* ========================================================= */
+  /* EXTENSION: Max desktop zoom (original: clamp(1.2rem, 10vw, 5rem)) */
+  /* Increase 8rem up to 10rem/12rem if you want it even larger */
+  --logo-h: clamp(2rem, 12vw, 12rem);
+  /* ========================================================= */
+
+  --logo-top: 1.75rem;
+  background-color: #23272b;
+  background-repeat: no-repeat;
+  background-position: center var(--logo-top);
+  background-size: auto var(--logo-h);
+
+  /* Automatically recalculates top space so text shifts down with the zoomed logo */
+  padding-top: calc(var(--logo-top) + var(--logo-h) + 1.75rem);
+  padding-bottom: 2.25rem;
+}
+
+@media (max-width: 260px) {
+  #title-block-header .quarto-title-banner {
+    /* ========================================================= */
+    /* EXTENSION: Max mobile zoom (original: clamp(2.5rem, 9vw, 4rem)) */
+    --logo-h: clamp(3rem, 12vw, 6rem);
+    /* ========================================================= */
+
+    background-image: url(images/RHINELAB_logo_compact.svg);
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "listing": "/contents/people/members/tran_cong_long/index.html",
+    "items": []
+  },
+  {
+    "listing": "/contents/people/members/bui_gia_khanh/index.html",
+    "items": []
+  },
+  {
+    "listing": "/contents/people/laboratory_members.html",
+    "items": [
+      "/contents/people/members/bui_gia_khanh/index.html",
+      "/contents/people/members/pham_khue_anh/index.html",
+      "/contents/people/members/tran_cong_long/index.html"
+    ]
+  },
+  {
+    "listing": "/contents/people/members/pham_khue_anh/index.html",
+    "items": []
+  },
+  {
+    "listing": "/contents/updates/post.html",
+    "items": [
+      "/contents/updates/posts/rhinelab-udt-1.html"
+    ]
+  },
+  {
+    "listing": "/contents/laboratory/laboratory.html",
+    "items": [
+      "/contents/laboratory/DEP/department.html",
+      "/contents/laboratory/COMM/community.html",
+      "/contents/laboratory/DOM/domain.html"
+    ]
+  },
+  {
+    "listing": "/contents/laboratory/DOM/domain.html",
+    "items": [
+      "/contents/laboratory/DOM/dom-ai.html",
+      "/contents/laboratory/DOM/dom-cs.html",
+      "/contents/laboratory/DOM/dom-math.html",
+      "/contents/laboratory/DOM/dom-phil.html",
+      "/contents/laboratory/DOM/dom-phys.html"
+    ]
+  }
+]

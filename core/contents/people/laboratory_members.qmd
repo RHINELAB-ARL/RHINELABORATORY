@@ -1,0 +1,121 @@
+---
+title: "RHINELAB Laboratory Members"
+description: "A list, or rather a collection thereof containing all peoples respectively under the affiliation of RHINELAB, and the expected one. One hell of a ride!"
+subtitle: "The core family of all, I suppose."
+listing:
+  - id: pi
+    include: 
+      people_group: "pi"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: researcher
+    include: 
+      people_group: "researcher"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: senior
+    include: 
+      people_group: "senior"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last    
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: core_members
+    include: 
+      people_group: "core_members"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last    
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: half_member
+    include: 
+      people_group: "half_member"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: trainee
+    include: 
+      people_group: "trainee"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  #- id: alumni
+  #  include: 
+  #    people_group: "alumni"
+  #  exclude:
+  #    external: true
+  #  template: ../_ejs/alumni-box.ejs
+  #  sort: last
+  #  type: grid
+  #  fields: [title, subtitle, image, education, altsubtitle, alteducation]
+page-layout: full
+---
+
+## Founder
+
+The **founder** of RHINELAB is Bui Gia Khanh. He is also a Principal Investigator (PI) of several groups, as well as **Administrators** handling core logistics and `RHINELAB@LOGISTICS` classification. He is also the author of the **Artifact Archival System** (AAS) that RHINELAB uses, as well as numerous theories that it hosts. 
+
+## Principal Investigator
+
+::: {#pi}
+:::
+
+## Senior Members
+
+::: {#senior}
+:::
+
+:::{.sand-background}
+## Research Scientists
+
+
+
+::: {#researcher}
+:::
+
+:::
+
+## Official Members
+
+::: {#core_members}
+:::
+
+:::{.sand-background}
+## Half Members
+
+
+
+::: {#half_member}
+:::
+
+:::
+
+:::{.sand-background}
+## Trainee and Students
+
+
+
+::: {#trainee}
+:::
+
+:::
+
+
+

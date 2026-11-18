@@ -1,0 +1,6 @@
+---
+title: RHINELAB@DOM-PHILSOC - Philosophical and Social Science Knowledge Concentration
+subtitle: For all meaning and purpose of philosophical and tid bit of social science knowledge, foundations, and developments. 
+title-block-banner: true
+description: As said, it is of the philosophical and social science **Field and Domain**. Specifically, the concentration of knowledge. 
+---

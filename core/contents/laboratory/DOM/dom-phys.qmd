@@ -1,0 +1,6 @@
+---
+title: RHINELAB@DOM-PHYS - Physics Knowledge Concentration
+subtitle: For all meaning and purpose of physics knowledge, tooling, development, encycloaedia, foundations, and developments. I am sick of repeating every words for some entries, that is. 
+title-block-banner: true
+description: As said, it is of the philosophical and social science **Field and Domain**. Specifically, the concentration of knowledge. 
+---

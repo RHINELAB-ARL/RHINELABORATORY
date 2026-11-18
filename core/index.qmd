@@ -1,0 +1,36 @@
+---
+   title: Welcome to RHINELAB
+   subtitle: "Advanced Theoretical, Foundational Research Laboratory group on Science, Metaphilosophy and Philosophy of Literatures."
+   title-block-banner: images/RHINELAB_D.svg
+   title-block-banner-color: "#ffffff"
+   format:
+     rhinelab-html:
+       css: styles/rhinelab-banner.css
+       code-tools: false
+       number-sections: false
+---
+
+Welcome to RHINELAB, a laboratory dedicated for open advanced scientific researches. We are a community of prospective students, independent researchers, theoreticians and researchers with diverse backgrounds in most area of science, *pure/natural science and technological science*, which includes pure mathematics, physics and theoretical computer science and artificial intelligence but not shying from *social science and philosophy*. Here, our lab works within the **foundations** of knowledge, the *logistics* for sciences and archives of scientific artifacts, *institutional science and organization science* for operating and managing the laboratory itself, and also *frontier sciences* in social science, literature, psychology, neuroscience, quantum physics and field theories, quantum foundational material science, artificial intelligence, philosophy of sciences and physics, and more theoretical research. 
+
+## Information
+
+If you would rather not share all my grievance, and want quick information, you can see the laboratory structure as the particular inquiry section, `UNIG` for different laboratories in existence of RHINELAB, and the *philosophical introduction* for the most introduction to the content specified thereof for the philosophy section. For the surface contact information and so on, you can see them in the various wiki structures available, or the more generalized portal as the [main front so website](https://rhinelaboratory.org). 
+
+
+## Recent news
+
+While we have our dedicated updates and reports, it would be still nice to have a board of news and updates for short burst. 
+
+::: {.callout-important}
+
+### Important news and updates
+
+So far, we have a few milestones. The update board starts from October 2026, so other information before would be not here as expected. 
+
+:::
+
+## Questions and inquiry
+
+## Contacts
+
+

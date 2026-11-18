@@ -1,0 +1,115 @@
+# USE THIS FILE TO EDIT YOUR QUARTO CONFIGURATION. A LOT OF FEATURES ARE RELVATIVELY SELF-EVIDENT IN THERE> 
+project:
+  type: website
+  output-dir: public
+  resources:
+    - "CNAME"
+    - robots.txt
+
+execute:
+  freeze: auto
+
+website:
+  favicon: images/favicon.rhinelab.png
+  title: "RHINELAB Advanced (Foundational) Research Laboratory"
+  site-url: https://amane-fujimiya.github.io/
+  repo-url: https://github.com/Amane-Fujimiya/
+  repo-actions: [edit, issue, source]
+  
+  search:
+    location: sidebar
+    type: textbox
+    limit: 30
+    collapse-after: 3
+    show-item-context: tree
+    copy-button: true
+
+  navbar:
+    
+    right:
+      - href: index.qmd
+        text: Central
+      #- href: about.qmd
+      #  text: Information
+      - href: contents/updates/post.qmd
+        text: News and Updates
+
+  sidebar:
+    style: floating
+    pinned: true
+    collapse-level: 2
+    border: true
+    search: true
+    tools:
+      - icon: house
+        href: https://rhinelaboratory.org
+        text: RHINELAB Main page
+    contents:
+      - index.qmd
+      - quick_introduction.qmd
+      #- contents/example.qmd
+      # SEE MORE ABOUT THESE CONTEXT AND SPECIFICATION IN QUARTO'S OWN DOCUMENTATION, OR THE LAB's ONE. THE FOLLOWING IS SOME EXAMPLE TAKEN FROM MTAIL. 
+      - section: "Researches"
+        contents: 
+          - contents/research/research1.qmd
+          - contents/research/research2.qmd
+      - section: "Laboratories"
+        contents:
+          - contents/laboratory/DEP/department.qmd
+          - contents/laboratory/DOM/domain.qmd
+          - contents/laboratory/COMM/community.qmd
+      - section: "People and Members"
+        contents:
+          - contents/people/laboratory_members.qmd
+          - contents/people/laboratory_participants.qmd
+          - contents/people/laboratory_collaborators.qmd
+      - section: "Logistics"
+        contents:
+          - contents/logistic/1_logistics.qmd
+      #    - section: "Double Descent"
+      #      contents: 
+      #        - contents/research/R1-double-descent/R1.1.qmd
+      #        #- contents/research/R1-double-descent/R1.2.qmd
+      #        - section: "Analysis"
+      #          contents:
+      #            - "contents/research/R1-double-descent/contents/R1.O1.qmd"
+      #            - "contents/research/R1-double-descent/contents/R1.O2.qmd"
+      - contents/bibliography.qmd
+  page-footer:
+    left: |
+      All content licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · &copy; Bui Gia Khanh, RHINELAB.
+    center: |
+      [Website](https://amane-fujimiya.github.io/) · [GitHub](https://github.com/Amane-Fujimiya) · [Blog](https://amane-fujimiya.github.io/blogs) · RHINELAB Research Laboratory - Logistical Team Management
+    right: Built with [Quarto](https://quarto.org/), Github and Cloudflare.
+
+bibliography: references.bib
+date-modified: last-modified
+
+format:
+  rhinelab-html:
+    number-sections: true
+    number-depth: 3
+    code-link: true
+    code-tools:
+      toggle: true
+    code-fold: false
+    code-overflow: wrap
+    reference-location: margin
+
+latex-auto-install: true
+
+knitr:
+  opts_chunk:
+    cache: true
+    cache.lazy: false
+    dpi: 600
+    fig.width: 5.5
+    fig.height: 3
+    out.width: "100%"
+    split: true
+    R.options:
+      knitr.graphics.auto_pdf: true
+      datatable.print.nrows: 10
+      datatable.print.class: false
+      datatable.print.keys: false
+      datatable.print.trunc.cols: TRUE

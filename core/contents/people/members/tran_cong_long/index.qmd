@@ -1,0 +1,56 @@
+---
+title: &TITLE Tran Cong Long
+last: Long
+first: Tran
+people_group: "senior"
+email: "tranconglong@rhinelaboratory.org"
+subtitle: Senior Researcher <br> Director of Science <br> Academic and Independent Scientific Researcher 
+education:
+  - B.S Physics, Hanoi University of Science, Vietnam National University 
+image: placeholder.png 
+listing:
+  id: pubs
+  template: ../../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../lab_publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  # image: avatar.jpg
+---
+
+<hr>
+
+
+:::{#about}
+
+Tran Cong Long is a co-founder, working and participating as the **director of science** for the laboratory. With his specialties as in **mathematical physics**, theoretical physics, an informal avid scholar in *linguistic* and ample knowledge and research incentives on both *foundational mathematics* and *foundational physics*, he is an important member and director, managing activities in `RHINELAB@MAPR` of the Mathematics and Physics Research Group/Laboratory. He is affiliated on enrolment in Vietnam National University, Hanoi University of Science (HUS, Vietnam).
+
+
+## Education
+
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
+
+
+
+
+
+

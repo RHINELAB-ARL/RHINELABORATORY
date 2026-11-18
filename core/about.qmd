@@ -1,0 +1,18 @@
+---
+title: "Information"
+description: All you might as well know about RHINELAB
+title-block-banner: images/RHINELAB_D.svg
+title-block-banner-color: "#ffffff"
+format:
+  rhinelab-html:
+    css: styles/rhinelab-banner.css
+    code-tools: false
+    number-sections: true
+---
+Certainly, there are a few things of interest when it is taken forth to communicate about what RHINELAB is and all what you should know about it. Granted, this will only cover legible and something we can share to the wider world, and thus does not account for much of the information and events that are rather hard to communicate with. But so, we are inclined to present our ever-increasing history, thus far, for the wider world to see and realize. So there is that, and welcome to the entries. 
+
+
+
+
+
+
