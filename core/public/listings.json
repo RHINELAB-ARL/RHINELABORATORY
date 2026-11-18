@@ -16,13 +16,13 @@
     ]
   },
   {
-    "listing": "/contents/people/members/pham_khue_anh/index.html",
-    "items": []
-  },
-  {
-    "listing": "/contents/updates/post.html",
+    "listing": "/contents/laboratory/DOM/domain.html",
     "items": [
-      "/contents/updates/posts/rhinelab-udt-1.html"
+      "/contents/laboratory/DOM/dom-ai.html",
+      "/contents/laboratory/DOM/dom-cs.html",
+      "/contents/laboratory/DOM/dom-math.html",
+      "/contents/laboratory/DOM/dom-phil.html",
+      "/contents/laboratory/DOM/dom-phys.html"
     ]
   },
   {
@@ -34,13 +34,13 @@
     ]
   },
   {
-    "listing": "/contents/laboratory/DOM/domain.html",
+    "listing": "/contents/people/members/pham_khue_anh/index.html",
+    "items": []
+  },
+  {
+    "listing": "/contents/updates/post.html",
     "items": [
-      "/contents/laboratory/DOM/dom-ai.html",
-      "/contents/laboratory/DOM/dom-cs.html",
-      "/contents/laboratory/DOM/dom-math.html",
-      "/contents/laboratory/DOM/dom-phil.html",
-      "/contents/laboratory/DOM/dom-phys.html"
+      "/contents/updates/posts/rhinelab-udt-1.html"
     ]
   }
 ]
